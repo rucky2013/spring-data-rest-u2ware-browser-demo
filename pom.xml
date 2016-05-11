@@ -6,7 +6,7 @@
 	<groupId>io.github.u2ware</groupId>
 	<artifactId>spring-data-rest-u2ware-browser-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>spring-data-rest-u2ware-browser-demo</name>
 	<description>spring-data-rest-u2ware-browser-demo</description>
